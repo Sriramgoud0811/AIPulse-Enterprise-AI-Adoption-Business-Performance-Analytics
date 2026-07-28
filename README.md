@@ -202,7 +202,38 @@ AIPulse-Enterprise-AI-Adoption-Business-Performance-Analytics
 * 🔄 Continuing with the remaining internship tasks
 
 ---
+## Day 9 – SQL Analysis
 
+### Task 1: SQL Joins
+- Performed INNER JOIN operations across:
+  - ai_company_adoption
+  - ai_industry_summary
+  - country_ai_index
+- Compared company AI adoption with industry benchmarks and country AI indicators.
+
+### Task 2: GROUP BY & Aggregations
+- Calculated average AI Adoption Rate.
+- Calculated average Productivity Change.
+- Calculated average AI Maturity Score.
+- Grouped results by:
+  - Region
+  - Survey Source
+  - Region + Survey Source
+
+### Task 3: Business KPI Queries
+Created SQL KPIs for:
+- AI Adoption Rate
+- AI Maturity Score
+- Productivity Improvement
+- Revenue Growth
+- Cost Reduction
+- AI Budget Allocation
+- Innovation Score
+- Customer Satisfaction
+- Jobs Created vs Jobs Displaced
+- Region-wise AI Adoption
+
+  
 # 👨‍💻 Author
 
 **Chinnolla Sriram Goud**
