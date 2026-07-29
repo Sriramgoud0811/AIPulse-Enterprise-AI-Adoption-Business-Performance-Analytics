@@ -233,6 +233,32 @@ Created SQL KPIs for:
 - Jobs Created vs Jobs Displaced
 - Region-wise AI Adoption
 
+
+## Day 10 - SQL Views & Window Functions
+
+### SQL Views
+- AI Adoption by Industry
+- AI Maturity by Industry
+- Revenue Growth by Region
+- AI Investment by Industry
+- AI Training by Region
+- AI Automation vs Productivity
+- AI Failure Rate
+- AI Projects by Region
+- Employee Satisfaction by Industry
+
+### Window Functions
+- Running Total using Survey Year
+- Rank Companies by AI Adoption
+- Dense Rank by Revenue
+- LAG for Previous Year AI Adoption
+- LEAD for Next Year AI Adoption
+- Company Age Ranking using Company Founding Year
+
+### Deliverables
+- SQL Views
+- Window Function Queries
+- Updated Documentation
   
 # 👨‍💻 Author
 
