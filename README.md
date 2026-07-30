@@ -259,6 +259,38 @@ Created SQL KPIs for:
 - SQL Views
 - Window Function Queries
 - Updated Documentation
+
+
+  ## Day 11 – Data Cleaning in Pandas
+
+### Objectives
+- Reproduced the data cleaning process in a Pandas notebook.
+- Verified row counts and null counts after cleaning.
+- Saved cleaned datasets for further analysis.
+
+### Tasks Completed
+- Loaded all three datasets using Pandas.
+- Inspected dataset structure with `head()`, `info()`, and `shape`.
+- Checked missing values using `isnull().sum()`.
+- Removed duplicate records (if present).
+- Verified row counts and null counts matched the cleaning plan.
+- Exported cleaned datasets to the `data/processed` folder.
+
+### Datasets
+- `ai_company_adoption.csv`
+- `ai_industry_summary.csv`
+- `country_ai_index.csv`
+
+### Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+- Git & GitHub
+
+### Output
+- `notebooks/day11_clean.ipynb`
+- Cleaned CSV files stored in `data/processed/`
+
   
 # 👨‍💻 Author
 
