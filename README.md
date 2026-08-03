@@ -290,7 +290,24 @@ Created SQL KPIs for:
 ### Output
 - `notebooks/day11_clean.ipynb`
 - Cleaned CSV files stored in `data/processed/`
+# Day 12 – Exploratory Data Analysis (EDA)
 
+## Tasks Completed
+
+- Performed Exploratory Data Analysis (EDA) on the AI company adoption dataset.
+- Generated summary statistics for AI adoption rate, productivity change percentage, and AI maturity score.
+- Visualized data using histograms and box plots.
+- Performed segment analysis by region and survey source.
+- Analyzed survey year, company founding year, company age, and quarter.
+- Documented key business observations from the analysis.
+
+## Deliverables
+
+- EDA Notebook
+- Histograms
+- Box Plots
+- Segment Analysis
+- Business Observations
   
 # 👨‍💻 Author
 
