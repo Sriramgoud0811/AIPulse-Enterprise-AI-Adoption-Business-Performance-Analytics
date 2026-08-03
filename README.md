@@ -308,7 +308,26 @@ Created SQL KPIs for:
 - Box Plots
 - Segment Analysis
 - Business Observations
-  
+
+
+  # Day 13 – Outlier Analysis and Business Insights
+
+## Tasks Completed
+
+- Performed outlier analysis using the IQR method.
+- Calculated Q1, Q3, IQR, lower limit, and upper limit.
+- Identified outliers for AI adoption rate, productivity change percentage, and AI maturity score.
+- Created distribution, trend, comparison, and composition charts.
+- Generated dataset-grounded business insights.
+- Documented observations for all visualizations.
+
+## Deliverables
+
+- Outlier Analysis Notebook
+- IQR Calculations
+- Business Charts
+- Business Insights
+- Visualization Observations
 # 👨‍💻 Author
 
 **Chinnolla Sriram Goud**
