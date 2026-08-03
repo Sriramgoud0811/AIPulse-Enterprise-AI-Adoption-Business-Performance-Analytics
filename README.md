@@ -328,6 +328,28 @@ Created SQL KPIs for:
 - Business Charts
 - Business Insights
 - Visualization Observations
+
+
+# Day 14 – Descriptive Statistics and Distribution Analysis
+
+## Tasks Completed
+
+- Calculated descriptive statistics for key business metrics.
+- Analyzed mean, median, mode, variance, standard deviation, range, and quartiles.
+- Performed distribution analysis using histograms.
+- Calculated skewness and kurtosis for numerical features.
+- Documented sampling caveats for the dataset.
+- Created additional business-oriented visualizations.
+
+## Deliverables
+
+- Descriptive Statistics Report
+- Histogram Analysis
+- Skewness and Kurtosis Analysis
+- Sampling Caveats Document
+- Business Charts
+
+
 # 👨‍💻 Author
 
 **Chinnolla Sriram Goud**
