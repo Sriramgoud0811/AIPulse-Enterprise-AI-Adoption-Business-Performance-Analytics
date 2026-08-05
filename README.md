@@ -290,8 +290,66 @@ Created SQL KPIs for:
 ### Output
 - `notebooks/day11_clean.ipynb`
 - Cleaned CSV files stored in `data/processed/`
+# Day 12 – Exploratory Data Analysis (EDA)
 
-  
+## Tasks Completed
+
+- Performed Exploratory Data Analysis (EDA) on the AI company adoption dataset.
+- Generated summary statistics for AI adoption rate, productivity change percentage, and AI maturity score.
+- Visualized data using histograms and box plots.
+- Performed segment analysis by region and survey source.
+- Analyzed survey year, company founding year, company age, and quarter.
+- Documented key business observations from the analysis.
+
+## Deliverables
+
+- EDA Notebook
+- Histograms
+- Box Plots
+- Segment Analysis
+- Business Observations
+
+
+  # Day 13 – Outlier Analysis and Business Insights
+
+## Tasks Completed
+
+- Performed outlier analysis using the IQR method.
+- Calculated Q1, Q3, IQR, lower limit, and upper limit.
+- Identified outliers for AI adoption rate, productivity change percentage, and AI maturity score.
+- Created distribution, trend, comparison, and composition charts.
+- Generated dataset-grounded business insights.
+- Documented observations for all visualizations.
+
+## Deliverables
+
+- Outlier Analysis Notebook
+- IQR Calculations
+- Business Charts
+- Business Insights
+- Visualization Observations
+
+
+# Day 14 – Descriptive Statistics and Distribution Analysis
+
+## Tasks Completed
+
+- Calculated descriptive statistics for key business metrics.
+- Analyzed mean, median, mode, variance, standard deviation, range, and quartiles.
+- Performed distribution analysis using histograms.
+- Calculated skewness and kurtosis for numerical features.
+- Documented sampling caveats for the dataset.
+- Created additional business-oriented visualizations.
+
+## Deliverables
+
+- Descriptive Statistics Report
+- Histogram Analysis
+- Skewness and Kurtosis Analysis
+- Sampling Caveats Document
+- Business Charts
+
+
 # 👨‍💻 Author
 
 **Chinnolla Sriram Goud**
